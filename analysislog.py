@@ -47,4 +47,4 @@ for i in result:
     count = datas.count(i)
     i["numberOfOccurrence"]=count
     print (i)
-    analysislog_rs.append(i
+    analysislog_rs.append(i)
